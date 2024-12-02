@@ -13,5 +13,11 @@
         "name": "Tom Hanks",
         "age": 22,
         "city": "Chicago"
+    },
+
+    {
+        "name": "Chris Tucker",
+        "age": "42",
+        "city": "Denver"
     }
 ]
