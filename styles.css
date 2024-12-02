@@ -18,13 +18,3 @@ h1 {
     text-align: center;
     color: #333;
 }
-
-form {
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-}
-
-label {
-    font-weight: bold;
-}
