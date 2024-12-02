@@ -8,5 +8,10 @@
         "name": "Ann Ispen",
         "age": 30,
         "city": "Los Angeles"
+    },
+    {
+        "name": "chris tucker",
+        "age": 30,
+        "city": "Denver"
     }
 ]
