@@ -1,17 +1,17 @@
 [
     {
-        "name": "RR",
+        "name": "Lionel Messi",
         "age": 35,
-        "city": "San Francisco"
+        "country": "Argentina"
     },
     {
-        "name": "Ann Ispen",
-        "age": 30,
-        "city": "Los Angeles"
+        "name": "Cristian Ronaldo",
+        "age": 37,
+        "country": "Portugal"
     },
     {
-        "name": "Tom Hanks",
-        "age": 22,
-        "city": "Chicago"
+        "name": "Neymar Jr.",
+        "age": 32,
+        "country": "Brazil"
     }
 ]
